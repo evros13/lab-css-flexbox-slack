@@ -8,3 +8,45 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color: #191817;
+}
+
+.back-purple {
+    background-color: #540B51;
+}
+
+.back-ivory {
+    background-color: #F3EAE2;
+}
+
+.white-text {
+    color: white;
+}
+
+.mustard-text {
+    color: #ECB12F;
+    font-weight: bolder;
+}
+
+.blue-link {
+    color: #2E71A6
+}
+
+.grey-text {
+    color: #454245;
+}
+
+.purple-text {
+    color: #540B51;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+li, a {
+    list-style: none;
+    text-decoration: none;
+}
