@@ -49,6 +49,11 @@ body {
     font-size: 2rem;
 }
 
+.paragraph-black{
+    color: #000000;
+    font-weight: bolder;  
+}
+
 li, a {
     list-style: none;
     text-decoration: none;
@@ -74,8 +79,11 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 600px;
-    padding-left: 200px;    
+    width: 60px;
+    padding-left: 140px;    
+    }
+    .hidden-links{
+        visibility: hidden;
     }
 }
 @media (min-width:681px) and (max-width: 991px){
